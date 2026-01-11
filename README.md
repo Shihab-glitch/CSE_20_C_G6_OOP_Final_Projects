@@ -177,8 +177,10 @@ This repository represents the collective work of CSE 20 C Group 6 students:
 
 ---
 
-**Course:** Object-Oriented Programming (OOP)  
+**Course:** Object-Oriented Programming Sessional (OOPS)
+**Course Code:** CSE-214 
 **Group:** 6  
-**Semester:** CSE 20 C
+**Semester:** 2-1
+**Batch-Section:** 20-C
 
 *Note: These projects are educational submissions for academic coursework.*
