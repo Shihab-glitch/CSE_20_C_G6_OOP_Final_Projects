@@ -1,6 +1,6 @@
-# CSE 20 C Group 6 - OOP Final Projects
+# CSE 2-1 20_C Group_6 - OOP Sessional Final Projects
 
-This repository contains the final project submissions for the Object-Oriented Programming (OOP) course. Each project demonstrates key OOP concepts including inheritance, polymorphism, encapsulation, and abstraction through practical C++ implementations.
+This repository contains the final project submissions for the Object-Oriented Programming Sessional (OOPS) course. Each project demonstrates key OOP concepts including inheritance, polymorphism, encapsulation, and abstraction through practical C++ implementations.
 
 ## 📋 Table of Contents
 
