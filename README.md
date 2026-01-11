@@ -90,7 +90,7 @@ To compile and run these projects, you need:
 
 1. Navigate to the project directory:
 ```bash
-cd CSE_20_C_G6_OOP_Final_Projects
+cd /path/to/CSE_20_C_G6_OOP_Final_Projects
 ```
 
 2. Compile any project using g++:
